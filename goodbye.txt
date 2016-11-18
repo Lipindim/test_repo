@@ -1,1 +1,3 @@
 print("goodbuy")
+print("Hello")
+print("Hello, friend")
